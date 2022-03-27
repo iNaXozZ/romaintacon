@@ -1,0 +1,44 @@
+.metier {
+ color: goldenrod;
+ text-align:center;
+}
+
+body {
+background-color: gray;
+}
+
+h1 {
+color: goldenrod;
+text-align: center;
+
+}
+p {
+color: honeydew;
+
+}
+li {
+color: honeydew;
+
+}
+h4 {
+color: goldenrod;
+
+}
+h3 {
+color:goldenrod ;
+
+}
+.lien {
+ color: honeydew;
+
+}
+.button {
+ background-color: goldenrod;
+ padding: 0.5% 0.5% 0.5% 0.5%;
+ margin:2px;
+ display:block;
+ width:150px;
+ line-height:50px;
+ text-align:center;
+ vertical-align:middle;
+}
